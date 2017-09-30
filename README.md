@@ -1,8 +1,9 @@
-# Statistics about LoL Pickem 2017
+# LoL Pickem 2017 - Wisdom of the crowd
 
 ## Stats of leaderboard r/leagueoflegends (30-Sep-17 11:00 CEST)
 
-http://pickem.euw.lolesports.com/en-GB#leaderboards/list/342919
+Reddit: https://www.reddit.com/r/leagueoflegends/comments/739y78/season_7_worlds_pickem_is_live/
+Leaderboard r/leagueoflegends: http://pickem.euw.lolesports.com/en-GB#leaderboards/list/342919
 
 ```
 Leaderboard ID: 342919
