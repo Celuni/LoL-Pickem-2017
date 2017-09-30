@@ -1,0 +1,16 @@
+{
+  "name": "lol-pickem-2017",
+  "version": "1.0.0",
+  "description": "Statistics about LoL Pickem 2017",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewep/LoL-Pickem-2017.git"
+  },
+  "author": "Dewep",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
